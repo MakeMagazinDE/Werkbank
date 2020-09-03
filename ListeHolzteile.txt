@@ -1,0 +1,23 @@
+Maße der einzelnen Holzstücke (alle Angaben in mm):
+
+Tischplatte 1000*386,52 
+
+Seitenteile 184*398,5
+
+Rückwand 1000*172
+
+Deckel 1000*344,6
+
+Deckelfront 1000*178,1 (Griffausschnitt 590*50)
+
+2 Stützdreiecke für die Innenseite des Deckels 100*100*158,7
+
+Leiste 1000*30
+
+Segmente für die Beinhalterung:
+
+alle: Länge 300, Höhe Rückseite 68, Höhe Vorderseite 28
+
+alle unten: 150,7 (90°-Winkel zu Rückseite), 154,5 (105°-Winkel zu Vorderseite)
+
+Ausschnitte für die Aufnahme des Querbalkens und der Beine siehe Konstruktionspläne
