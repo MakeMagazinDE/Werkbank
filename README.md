@@ -12,4 +12,4 @@ In der Wohnung Basteln trotz Platzmangel wird mit unserer kleinen Werkbank mögl
 
 ![Picture](https://github.com/MakeMagazinDE/Werkbank/blob/master/02.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/20 ab Seite ](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die Liste der einzelnen Holzstücke mit Bemaßung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Sonderausgabe Ausgabe 2020 ab Seite 70](https://www.heise.de/select/make/2020/7/2021107025374829057). Hier finden Sie die Liste der einzelnen Holzstücke mit Bemaßung sowie den Plan.
